@@ -1,3 +1,3 @@
 # PluginSample
 
-개발중
+plugin sample
